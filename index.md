@@ -2,11 +2,12 @@
 layout: lesson
 root: .
 ---
-The is the Data Carpentry lesson on using Version Control for Reproducible Research.
+The is a Carpentry lesson on using git Version Control with Github Desktop.
 
 > ## Prerequisites
-> - `R`
-> - `RStudio`
-> - `git` and a GitHub account
+>
+> - `Github Desktop`
+> - 'A GitHub account
+
 >
 {: .prereq}

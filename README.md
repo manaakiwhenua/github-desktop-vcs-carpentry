@@ -1,4 +1,4 @@
-# Version Control via Git and Github
+# Version Control using Github Desktop
 
 ## Lesson synopsis (1.5 - 2 hours)
 
@@ -7,8 +7,9 @@ This lesson teaches the concept of version control using git. The lesson begins 
 ## Setup
 
 Before this lessons, students should:
--  For `02-git-in-github`: Obtain a Github account. If you sign up using a student email you get five free private repositories through a [student developer pack](https://education.github.com/pack).
--  For `02-git-in-rstudio`: Install Git for use in RStudio.  Follow [installation instructions from RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN). *Suggested* This step should be done at the end of day 1.
+
+- For `02-git-in-github`: Obtain a Github account. If you sign up using a student email you get five free private repositories through a [student developer pack](https://education.github.com/pack).
+- For `02-git-in-rstudio`: Install Git for use in RStudio.  Follow [installation instructions from RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN). *Suggested* This step should be done at the end of day 1.
 
 ## Learning Objectives
 
